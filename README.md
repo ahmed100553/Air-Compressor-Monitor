@@ -182,10 +182,11 @@ The software for this project is primarily written in Python, leveraging several
 
 1. **Hardware Setup:**
    - Connect the sensors to the Raspberry Pi according to the provided schematics.
-![image](https://github.com/user-attachments/assets/5a786d80-fd94-4dac-a723-299a73d3efac)
-![image](https://github.com/user-attachments/assets/806b06e3-1d41-4c61-8c56-95408ffe6f2a)
-![image](https://github.com/user-attachments/assets/81f08331-0cdf-4e0a-aae7-b3e92095b523)
-![image](https://github.com/user-attachments/assets/1e62d8b3-fb6d-4aeb-adbc-32e8e62bd6f8)
+![image](https://github.com/user-attachments/assets/9a11a2ab-36c5-4722-a7d1-2703ba0c4d8c)
+![image](https://github.com/user-attachments/assets/e3c4eb95-33f5-454d-9eaf-debbdbb0bdac)
+![image](https://github.com/user-attachments/assets/785fb39a-da4e-412f-9cf8-bb7a1660564b)
+![image](https://github.com/user-attachments/assets/5ab0b6eb-8342-4f02-b103-fbf194afdff4)
+
 
 
 2. **Running the System:**
@@ -202,7 +203,8 @@ The software for this project is primarily written in Python, leveraging several
 
 - **Real-time Monitoring:** The Streamlit app (`stData.py`) visualizes sensor data as it is collected, providing interactive plots and metrics.
 - **Offline Analysis:** The `StDataCollection.py` script allows users to upload and analyze previously collected data.
-![image](https://github.com/user-attachments/assets/aafd96b4-9850-484f-9ea6-b21a9bbcbf98)
+![image](https://github.com/user-attachments/assets/fb88b167-dc91-4e29-9a84-dbf9e5bec791)
+![image](https://github.com/user-attachments/assets/2d6d0013-8c70-44fc-8f86-72e584b91c8d)
 
 
 ### Future Enhancements
